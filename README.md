@@ -21,3 +21,7 @@ Project ideas that pops into our heads that we want to create a project around.
  * ReactJS or Win10 Core powered GUI
  * Connects with social media (Facebook, Twitter, Reddit ect.)
  * Connect with a secure messaging product (Wire, Keybase etc.) (Discuss whether to show messages or just notification)
+ * Campusnet notifications.
+   * Current courses.
+   * Assignment deadlines.
+   * Messages.
