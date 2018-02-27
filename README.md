@@ -7,7 +7,8 @@ Project ideas that pops into our heads that we want to create a project around.
    * Normal player functionality. (Play, pause, stop, next etc.)
    * Playlist support. (Add, save, copy from Spotify/YT/SC etc.)
  * Browser extension.
-   * Add the song in the current tab to a desired playlist or queue.
+   * Add the song in the active tab to a desired playlist or queue.
+   * Add whole playlist from a an active tab.
  
 ## Public key infrastructure management system
  * Generate client/server PEM certificates
