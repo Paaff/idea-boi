@@ -34,3 +34,10 @@ Project ideas that pops into our heads that we want to create a project around.
  * Backup game servers (snapshotting) 
  * Browser text editor (IDE) to write configuration files for each game server
  * Whitelisting option using *iptables*
+
+## Password manager
+ * Modern **self-hosted**, open source password manager
+ * Platform support for Linux, Windows, MacOS (using Electron framework)
+ * Platform support for Android, iOS (Using Flutter framework)
+ * Browser plugins for Chrome, Safari, Firefox
+ * Stateless password storage using hash of master password, username site hostname
