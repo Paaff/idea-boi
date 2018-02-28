@@ -29,7 +29,8 @@ Project ideas that pops into our heads that we want to create a project around.
 ## Game server manager
  * A contanerized dedicated game server management system powered by Docker
  * Spin up new game server with a single click
- * Change port, settings configuration files for each server
+ * Change port, settings & configuration files for each server
  * ReactJS web app to configure game servers
+ * Backup game servers (snapshotting) 
  * Browser text editor (IDE) to write configuration files for each game server
  * Whitelisting option using *iptables*
