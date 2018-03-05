@@ -41,3 +41,10 @@ Project ideas that pops into our heads that we want to create a project around.
  * Platform support for Android, iOS (Using Flutter framework)
  * Browser plugins for Chrome, Safari, Firefox
  * Stateless password storage using hash of master password, username site hostname
+ 
+ ## PlayStation DualShock 4 Bluetooth Audio Device
+  * A sound driver to use your PlayStation 4 controller as playback device on Windows
+  * Connect your PlayStation DualShock 4 controller to Windows
+  * Add a virtual sound device to playback devices
+  * Play back audio and stream the audio to the controller using bluetooth
+  * Use the built in mini-jack in the controller to listen
