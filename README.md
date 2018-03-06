@@ -48,3 +48,10 @@ Project ideas that pops into our heads that we want to create a project around.
   * Add a virtual sound device to playback devices
   * Play back audio and stream the audio to the controller using bluetooth
   * Use the built in mini-jack in the controller to listen
+  
+ ## Router Management Webapplication
+  * ReactJS webapplication to manage DIY router (linux/bsd based)
+  * Firewall configuration (blacklist/whitelist/portforwarding)
+  * VPN configuration (using OpenVPN)
+  * DHCP configuration
+  * DNS configuration
