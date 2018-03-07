@@ -62,4 +62,4 @@ Project ideas that pops into our heads that we want to create a project around.
     * Convert the audio to text using speech recognition
     * Correlate the original phrase with the processed phrase
     * Continue to pick phrases U.A.R. to increase confidence
-  * Use Sphinx library for speech recognition
+  * Use [Sphinx](http://www.sphinx-doc.org/en/master/) library for speech recognition
