@@ -55,3 +55,11 @@ Project ideas that pops into our heads that we want to create a project around.
   * VPN configuration (using OpenVPN)
   * DHCP configuration
   * DNS configuration
+  
+ ## Subtitle Matching using Speech Recognition
+  * Match subtitles against audio
+    * Look up a phrase in the *.srt* file and extract the audio
+    * Convert the audio to text using speech recognition
+    * Correlate the original phrase with the processed phrase
+    * Continue to pick phrases U.A.R. to increase confidence
+  * Use Sphinx library for speech recognition
