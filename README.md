@@ -63,3 +63,8 @@ Project ideas that pops into our heads that we want to create a project around.
     * Correlate the original phrase with the processed phrase
     * Continue to pick phrases U.A.R. to increase confidence
   * Use [Sphinx](http://www.sphinx-doc.org/en/master/) library for speech recognition
+  
+ ## OpenVPN GUI client using Electron framework
+  * A GUI wrapper for the OpenVPN binary
+  * For Windows, MacOS & Linux
+  * Replacement for Tunnelblick (MacOS)
