@@ -68,3 +68,12 @@ Project ideas that pops into our heads that we want to create a project around.
   * A GUI wrapper for the OpenVPN binary
   * For Windows, MacOS & Linux
   * Replacement for Tunnelblick (MacOS)
+  
+ ## SET: The Family Game of Visual Perception
+  * A solver for the SET game on a mobile device
+  * Scan the cards using phones camera
+    - Use SIFT features to find cards
+    - Search for any of the 27 figures in each card
+    - Cluster localized object using K-means
+  * Search for solution using brute force or state based search
+   
