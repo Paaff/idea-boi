@@ -70,8 +70,8 @@ Project ideas that pops into our heads that we want to create a project around.
   * Replacement for Tunnelblick (MacOS)
   
  ## SET: The Family Game of Visual Perception
-  * A solver for the SET game on a mobile device
-  * Scan the cards using phones camera
+  * A solver for the SET game ([https://www.setgame.com/set](https://www.setgame.com/set))
+  * Scan the cards using mobile phone's camera
     - Use SIFT features to find cards
     - Search for any of the 27 figures in each card
     - Cluster localized object using K-means
