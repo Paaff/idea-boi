@@ -76,4 +76,10 @@ Project ideas that pops into our heads that we want to create a project around.
     - Search for any of the 27 figures in each card
     - Cluster localized object using K-means
   * Search for solution using brute force or state based search
+  
+## Mobile Jukebox
+ * People can join a jukebox lobby together
+ * Use spotify API to search and queue music
+ * People can upvote and downvote music suggestions
+ * Music is played according to the priority queue of the music
    
