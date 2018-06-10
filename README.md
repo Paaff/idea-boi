@@ -82,4 +82,10 @@ Project ideas that pops into our heads that we want to create a project around.
  * Use spotify API to search and queue music
  * People can upvote and downvote music suggestions
  * Music is played according to the priority queue of the music
+ 
+## CSGO damage counter
+ * Inspects the game console and extracts damage inflicted on enemy players
+ * Keeps track of enemy players remaining health
+ * Optionally shares data with team member also using the program
+ * HUD overlay (or other GUI) to keep track of enemies with low health
    
