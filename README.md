@@ -88,4 +88,11 @@ Project ideas that pops into our heads that we want to create a project around.
  * Keeps track of enemy players remaining health
  * Optionally shares data with team member also using the program
  * HUD overlay (or other GUI) to keep track of enemies with low health
-   
+
+## CampusNet Sync
+ * Login with your CampusNet account
+ * Get a list about which courses you have
+ * Choose which to sync
+ * Sync will download filesharing files/folders to specified directory
+ * campussync --course 02232
+ * campussync --all
