@@ -94,5 +94,5 @@ Project ideas that pops into our heads that we want to create a project around.
  * Get a list about which courses you have
  * Choose which to sync
  * Sync will download filesharing files/folders to specified directory
- * campussync --course 02232
- * campussync --all
+ * `campussync --course 02232`
+ * `campussync --all`
