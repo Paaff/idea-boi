@@ -63,6 +63,11 @@ Project ideas that pops into our heads that we want to create a project around.
     * Correlate the original phrase with the processed phrase
     * Continue to pick phrases U.A.R. to increase confidence
   * Use [Sphinx](http://www.sphinx-doc.org/en/master/) library for speech recognition
+  * Use machine learning to find correlation between text and voice
+    * Find most commonly used words in english language/subtitles
+    * Make a bag of words (BOW) from those words
+    * Train a neural network to estimate the BOW from speech
+    * Input can be MFCC fed to an RNN, output will be a 1D-tensor with size of BOW
   
  ## OpenVPN GUI client using Electron framework
   * A GUI wrapper for the OpenVPN binary
