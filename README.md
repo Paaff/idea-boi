@@ -106,3 +106,8 @@ Project ideas that pops into our heads that we want to create a project around.
  * When opening messenger.com, all recent contacts are shown on the left and the most recently used conversation will be opened
  * This is convenient sure, but can be troublesome if some conversations are private
  * Research whether it is possible to open up a specific conversation in messenger by using a keyword e.g. "John"
+
+## Vim Messenger
+ * Just a terminal Messenger with Vim bindings
+ * Think of NERDTree - The navigation bar to the left of the editor can be the contacts
+ * The "editor" to the right can be the messenger
